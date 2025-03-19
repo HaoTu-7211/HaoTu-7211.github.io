@@ -3,18 +3,14 @@
 I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
 
 #### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+<code>3220241118@bit.edu.cn(Preferred)</code> 
+<code>thaao2001@163.com</code> 
 
 #### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
+**Beijing Institute of Technology，Zhuhai (zh.bit.edu.cn)**, MS student (2024 – Present)  
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
-
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
+**Donghua University, Shanghai (dhu.edu.cn)**, Undergrad student (2020 – 2024)  
+ 
 
 #### Research Interests  
-XX, XX, XX, XX.
+Underwater Acoustic Detection, Underwater Image Processing, Computer vision.
