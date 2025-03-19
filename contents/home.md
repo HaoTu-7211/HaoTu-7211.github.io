@@ -1,9 +1,10 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/HaoTu-7211)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+I am currently pursuing a Master's degree in Engineering at Beijing Institute of Technology.
 
 #### Email  
 <code>3220241118@bit.edu.cn(Preferred)</code> 
+
 <code>thaao2001@163.com</code> 
 
 #### Education  
@@ -13,4 +14,4 @@ I'm currently pursuing a Master's degree in XX at the Department of XX, XX Unive
  
 
 #### Research Interests  
-Underwater Acoustic Detection, Underwater Image Processing, Computer vision.
+Underwater Acoustic Detection, Underwater Image Processing, Computer vision.#
