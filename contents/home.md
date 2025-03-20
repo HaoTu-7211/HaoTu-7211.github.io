@@ -1,4 +1,4 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/HaoTu-7211)
+[![HaoTu](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/HaoTu-7211)
 
 I am currently pursuing a Master's degree in Engineering at Beijing Institute of Technology.
 
@@ -14,4 +14,4 @@ I am currently pursuing a Master's degree in Engineering at Beijing Institute of
  
 
 #### Research Interests  
-Underwater Acoustic Detection, Underwater Image Processing, Computer vision.#
+Underwater Acoustic Detection, Underwater Image Processing, Computer vision.

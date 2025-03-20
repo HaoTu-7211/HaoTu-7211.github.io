@@ -1,2 +1,2 @@
-- 校级奖学金, (2020 - 2021).  
+- Scholarships at the school level, (2020 - 2021).  
 
