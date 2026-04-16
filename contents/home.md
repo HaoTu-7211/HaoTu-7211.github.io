@@ -1,4 +1,4 @@
-[![TH](https://img.shields.io/badge/HaoTu-7211-github-blue?logo=github)](https://github.com/HaoTu-7211)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/HaoTu-7211)
 
 I am a Master's student at Beijing Institute of Technology, Zhuhai, specializing in Computer Vision and Generative AI. I am looking for a Ph.D. position starting in Fall 2027.
 
