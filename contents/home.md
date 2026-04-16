@@ -1,11 +1,18 @@
-[![TH](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/HaoTu-7211)
+[![TH](https://img.shields.io/badge/HaoTu-7211-github-blue?logo=github)](https://github.com/HaoTu-7211)
 
-I am currently pursuing a Master's degree in Engineering at Beijing Institute of Technology.
+I am a Master's student at Beijing Institute of Technology, Zhuhai, specializing in Computer Vision and Generative AI.
+
+#### Current Goal 
+Seeking a highly motivated research group for a Ph.D. program starting in Fall 2027.
+
+#### Research Philosophy 
+Pushing the boundaries of image restoration to achieve SOTA results within accessible compute budgets (e.g., 4x RTX 4090 GPUs).
 
 #### Email  
-<code>3220241118@bit.edu.cn(Preferred)</code> 
+<code>thaao2001@126.com(Preferred)</code> 
 
-<code>thaao2001@163.com</code> 
+<code>3220241118@bit.edu.cn</code> 
+
 
 #### Education  
 **Beijing Institute of Technology，Zhuhai (zh.bit.edu.cn)**, MS student (2024 – Present)  
@@ -14,4 +21,4 @@ I am currently pursuing a Master's degree in Engineering at Beijing Institute of
  
 
 #### Research Interests  
-Underwater Acoustic Detection, Underwater Image Processing, Computer vision.
+Image restoration, Computer vision, Underwater Image Processing, Diffusion model, Prior processing.
