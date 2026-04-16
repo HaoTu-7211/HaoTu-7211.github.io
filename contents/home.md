@@ -3,7 +3,7 @@
 I am a Master's student at Beijing Institute of Technology, Zhuhai, specializing in Computer Vision and Generative AI. I am looking for a Ph.D. position starting in Fall 2027.
 
 #### Research Philosophy 
-Pushing the boundaries of image restoration to achieve SOTA results within accessible compute budgets (e.g., 4x RTX 4090 GPUs).
+Pushing the boundaries of image restoration to achieve SOTA results within accessible compute budgets.
 
 #### Email  
 <code>thaao2001@126.com(Preferred)</code> 
