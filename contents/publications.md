@@ -4,4 +4,4 @@
 
   **Status:** Under Review, 2026
 
-  <img src="static/assets/img/Graphical abstract.png" width="80%" style="margin-top: 10px; border-radius: 8px;">
+  <img src="static\assets\img\Graphical_abstract.png" width="80%" style="margin-top: 10px; border-radius: 8px;">
