@@ -1,2 +1,2 @@
 - Scholarships at the school level, (2020 - 2021).  
-
+- Beijing Institute of Technology Postgraduate First-Class Scholarship, (2024 - 2025).
